@@ -32,7 +32,7 @@ public enum Morse {
     
     Morse(String morse) {
         this.morse = morse;
-        this.code = name().charAt(name.length() -1);
+        this.code = name().charAt(name().length() -1);
     }
 
     Morse(String morse, char code) {
