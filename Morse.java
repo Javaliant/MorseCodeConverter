@@ -1,6 +1,7 @@
-/**
- * Created by Luigi on 12/14/2014. Enum set for MorseCodeConverter
- */
+/* Author: Luigi Vincent
+Enum to be used with MorseCodeConverter
+*/
+
 public enum Morse {
     MC_1(".----"), MC_2("..---"),MC_3("...--"),
 
